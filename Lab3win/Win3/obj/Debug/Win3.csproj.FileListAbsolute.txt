@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\source\repos\Win3\Win3\bin\Debug\Win3.exe.config
+C:\Users\Xiaomi\source\repos\Win3\Win3\bin\Debug\Win3.exe
+C:\Users\Xiaomi\source\repos\Win3\Win3\bin\Debug\Win3.pdb
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.Bank.resources
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.Main_form.resources
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.exe
+C:\Users\Xiaomi\source\repos\Win3\Win3\obj\Debug\Win3.pdb
